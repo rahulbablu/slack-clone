@@ -1,4 +1,8 @@
-# Getting Started with Create React App and Redux
+## slack-clone - https://slack-clone-f4a27.web.app
+
+### Description:
+<hr />
+Slack clone is built with React, Redux,React hooks,Firebase hooks, Google Auth & styled-components. This clone allows users to login with existing google account using firebase hooks. Users can login,create channels & send messages.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
